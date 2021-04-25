@@ -27,3 +27,16 @@ $符号一般用来当作占位符，常使用Linux脚本的人应该对此有�
 映射方式为自定义一个 TypeHandler，实现 TypeHandler 的 setParameter()和 getResult()接口方法。
 TypeHandler 有两个作用，一是完成从 javaType 至 jdbcType 的转换，
 二是完成 jdbcType 至 javaType 的转换，体现为 setParameter()和 getResult()两个方法，分别代表设置 sql 问号占位符参数和获取列查询结果
+
+
+### mybati学习
+
+- [MyBatis源码学习（一）](https://juejin.im/post/5ed79de2518825431845aa1c)
+- [MyBatis源码学习（二）](https://juejin.im/post/5edb23196fb9a047b11b59e3)
+- [MyBatis源码学习（三）](https://juejin.im/post/5edb6059e51d45783e17bb04)
+- [MyBatis源码学习（四）](https://juejin.im/post/6857358748152381447/)
+
+
+
+
+
